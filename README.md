@@ -8,7 +8,7 @@
 - 👨‍💻 Full Stack Web Developer
 - 🎥 Curious to learn more about React  <!-- - 🌱 Currently learning Svelte. -->
 - 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me:[@harshvikram](https://instagram.com/harshvikram.11)
+- 📫 How to reach me:[@harshvikram](https://instagram.com/harshvikram_singhh)
 
 
 <h3 align="left">Connect with me:</h3>
