@@ -27,8 +27,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshVikram-CedCoss&show_icons=true&locale=en&layout=compact" alt="HarshVikram" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshVikram-Singh&show_icons=true&locale=en&layout=compact" alt="HarshVikram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshVikram-CedCoss&show_icons=true&locale=en" alt="HarshVikram" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshVikram-Singh&show_icons=true&locale=en" alt="HarshVikram" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshVikram-CedCoss&" alt="HarshVikram" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshVikram-Singh&" alt="HarshVikram" /></p>
